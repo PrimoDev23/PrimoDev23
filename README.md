@@ -15,7 +15,7 @@ Here is a basic list of things I do or did in the past:
 
 [![General_Stats](https://github-readme-stats.vercel.app/api?username=PrimoDev23&show_icons=true&theme=vue)](https://github.com/anuraghazra/github-readme-stats)
 
-[![General_Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=vue)](https://github.com/anuraghazra/github-readme-stats)
+[![General_Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=PrimoDev23&layout=compact&theme=vue)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **PrimoDev23/PrimoDev23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
