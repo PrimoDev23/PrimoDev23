@@ -10,11 +10,8 @@ Here is a basic list of things I do or did in the past:
 * Game development (Minecraft clients)
 * C# Desktop Solutions (primarily while apprenticeship and not private)
 * C#/Xamarin.Forms mobile development
-* Kotlin mobile development (just started to learn by writing my news app)
+* Kotlin android development
 * Java applications (exercises in school)
-
-My current project to learn Kotlin  
-[![NewsApp_Repo](https://github-readme-stats.vercel.app/api/pin/?username=PrimoDev23&repo=NewsApp)](https://github.com/anuraghazra/github-readme-stats)
   
 [![General_Stats](https://github-readme-stats.vercel.app/api?username=PrimoDev23&show_icons=true&theme=vue)](https://github.com/anuraghazra/github-readme-stats)
 [![Language_Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=PrimoDev23&layout=compact&theme=vue)](https://github.com/anuraghazra/github-readme-stats)
