@@ -1,17 +1,15 @@
 ### Hi there 👋
 
-I am a dedicated developer working on different projects
-So my skills cover many topics and languages.
+I am a dedicated developer that has already worked on many projects.
 
-Here is a basic list of things I do or did in the past:
+So my skills cover many topics and I have worked with various technologies in the past. Here are some examples...
 
-* Android/Linux Kernel development
-* Simple shell scripts to simplify builds of kernels
-* Game development (Minecraft clients)
-* C# Desktop Solutions (primarily while apprenticeship and not private)
-* C#/Xamarin.Forms mobile development
-* Kotlin android development
-* Java applications (exercises in school)
+* Kotlin development for android and API (my main and best language)
+* AI development (using stable baselines and pytorch)
+* CI/CD development (shell scripts)
+* Game development (Mainly minecraft modding)
+* C# for desktops (.NET Framework and Core) and mobiles (Xamarin.Forms)
+* Android/Linux kernel development (released as open source kernel and provided on XDA forums)
   
 [![General_Stats](https://github-readme-stats.vercel.app/api?username=PrimoDev23&show_icons=true&theme=vue)](https://github.com/anuraghazra/github-readme-stats)
 [![Language_Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=PrimoDev23&layout=compact&theme=vue)](https://github.com/anuraghazra/github-readme-stats)
